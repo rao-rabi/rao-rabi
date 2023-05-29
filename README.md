@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **rabirao1039@gmail.com**
 
+<p align="left"> <a href="https://twitter.com/rao_rabi465" target="blank"><img src="https://img.shields.io/twitter/follow/rao_rabi465?logo=twitter&style=for-the-badge" alt="rao_rabi465" /></a> </p>
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rao-rabi" alt="rao-rabi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
