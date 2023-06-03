@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap and JavaScript.**
+- 💬 Ask me about **HTML,CSS,Bootstrap JavaScript and Vanilla JavaScript.**
 
 - 📫 How to reach me **rabirao1039@gmail.com**
 
