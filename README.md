@@ -1,7 +1,8 @@
-![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
-<h1 align="center">Hi 👋, I'm Rao Rabi</h1>
+<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Rao+Rabi!;Frontend+Web+Developer...🏻‍💻;" style="width: 100%;">
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rao-rabi&label=Profile%20views&color=0e75b6&style=flat" alt="rao-rabi" /> </p>
 
 - 🌱 I’m currently learning **React**
@@ -33,4 +34,4 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rao-rabi&bg_color=21232a&color=fffff&show_icons=true&locale=en&layout=compact" alt="rao-rabi" /></p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=rao-rabi" alt="rao-rabi" /></a> </p>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
